@@ -79,6 +79,13 @@ This opens the interactive API documentation (Swagger UI).
 ![backend_status_while_report_gen](./Screenshots/backend_terminal_status_while_report_gen.png)
 ![get_generated_report_via_api_call](./Screenshots/get_report_generated_true.png)
 
+## Video
+Loom was used to record and here is the link for it -
+
+([triggering_report_generation](https://www.loom.com/share/2ff7b25b05734102bb68f76c7ae3c249?sid=0f2e70ff-aba3-4ea6-b58d-860bd2059ee2))
+
+[**Note** : The video was paused in the middle to fit the time constraints and to completley genrate a new report. The report generation takes about **8-9 mins**]
+
 ## Code Explanation
 ### main.py
 Global variables
